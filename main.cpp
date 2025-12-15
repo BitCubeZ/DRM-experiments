@@ -40,7 +40,7 @@ int main()
     
     if(validateLicense(licenseKey))
     {
-        cout<<"Nice"<<endl;
+        cout<<"Nice, you have now validated the program."<<endl;
     }
     else
     {
